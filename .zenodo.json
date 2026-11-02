@@ -8,7 +8,7 @@
     {"name": "Samsudin, Imam", "affiliation": "Faculty of Computer Science, Muhammadiyah University of Metro, Metro, Lampung, Indonesia", "orcid": "0009-0006-2482-4209"}
   ],
   "keywords": ["Forward-Forward algorithm", "plasticity loss", "continual learning", "local learning rules", "dormant neurons", "effective rank"],
-  "license": "MIT",
+  "license": "mit",
   "access_right": "open",
   "version": "1.0.0",
   "language": "eng",
