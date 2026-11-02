@@ -1,0 +1,26 @@
+{
+  "seeds": 5,
+  "n_tasks": {
+    "pmnist": 149,
+    "lpcifar": 99
+  },
+  "scale": 0.996,
+  "est_min": 77.1,
+  "sec_per_task": {
+    "pmnist": {
+      "bp": 0.4,
+      "bp_cbp": 0.6,
+      "bpg": 1.2,
+      "ff": 0.8,
+      "ff_cbp": 0.85
+    },
+    "lpcifar": {
+      "bp": 0.35,
+      "bp_cbp": 0.45,
+      "bpg": 1.0,
+      "ff": 0.85,
+      "ff_cbp": 0.9
+    }
+  },
+  "tune_est_min": 1.9
+}

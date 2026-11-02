@@ -1,0 +1,14 @@
+{
+ "C_local/rlmnist": {
+  "dfa": 0.0003,
+  "dfan": 0.001,
+  "lcn": 0.001,
+  "gcn": 0.0003
+ },
+ "C_local/rlcifar": {
+  "dfa": 0.0003,
+  "dfan": 0.001,
+  "lcn": 0.0003,
+  "gcn": 0.0001
+ }
+}

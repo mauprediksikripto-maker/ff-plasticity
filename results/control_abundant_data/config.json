@@ -1,0 +1,47 @@
+{
+  "BENCH": {
+    "pmnist": {
+      "name": "pmnist",
+      "dataset": "mnist",
+      "kind": "permuted",
+      "n_train": 10000,
+      "n_test": 2000,
+      "batch": 64,
+      "epochs": 1,
+      "n_tasks": 149
+    },
+    "lpcifar": {
+      "name": "lpcifar",
+      "dataset": "cifar10",
+      "kind": "label_permuted",
+      "n_train": 10000,
+      "n_test": 2000,
+      "batch": 64,
+      "epochs": 1,
+      "n_tasks": 99
+    }
+  },
+  "SEEDS": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "WIDTH": 500,
+  "DEPTH": 3,
+  "LR_GRID": [
+    0.0003,
+    0.001,
+    0.003
+  ],
+  "TUNE_TASKS": 5,
+  "TUNE_SEED": 100,
+  "BUDGET_MIN": 120,
+  "torch": "2.11.0+cu130",
+  "optimizer": "adam",
+  "theta": 2.0,
+  "label_energy": 0.5,
+  "rho": 0.0001,
+  "maturity": 100
+}

@@ -1,0 +1,26 @@
+{
+  "seeds": 5,
+  "n_tasks": {
+    "rlmnist": 83,
+    "rlcifar": 83
+  },
+  "scale": 0.83,
+  "est_min": 105.5,
+  "sec_per_task": {
+    "rlmnist": {
+      "bp": 0.75,
+      "bp_cbp": 0.9,
+      "bpg": 2.35,
+      "ff": 1.8,
+      "ff_cbp": 1.9
+    },
+    "rlcifar": {
+      "bp": 0.75,
+      "bp_cbp": 0.85,
+      "bpg": 2.2,
+      "ff": 1.75,
+      "ff_cbp": 2.0
+    }
+  },
+  "tune_est_min": 3.8
+}

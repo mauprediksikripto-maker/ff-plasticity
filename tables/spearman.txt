@@ -1,0 +1,2 @@
+width 500: n=12 rho(R, erank)=0.874 p=2.01e-04; rho(R, dormant)=-0.748 p=5.12e-03
+all widths: n=18 rho(R, erank)=0.841 p=1.23e-05; rho(R, dormant)=-0.674 p=2.17e-03

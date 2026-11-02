@@ -1,0 +1,1 @@
+n=16 rho(R, erank)=0.679 p=3.79e-03; rho(R, dormant)=-0.824 p=8.84e-05

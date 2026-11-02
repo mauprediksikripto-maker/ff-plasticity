@@ -1,0 +1,16 @@
+{
+  "rlmnist": {
+    "n_train": 1000,
+    "epochs": 20,
+    "retention": 0.7761,
+    "peak": 0.9974,
+    "last": 0.7741
+  },
+  "rlcifar": {
+    "n_train": 1000,
+    "epochs": 20,
+    "retention": 0.1236,
+    "peak": 0.9232,
+    "last": 0.1141
+  }
+}

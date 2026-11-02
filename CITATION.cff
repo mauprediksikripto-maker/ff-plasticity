@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Does local learning preserve plasticity? Forward-Forward versus backpropagation in continual learning — code and results"
+version: 1.0.0
+license: MIT
+type: software
+authors:
+  - family-names: "Irawan"
+    given-names: "Dedi"
+    affiliation: "Faculty of Computer Science, Muhammadiyah University of Metro, Metro, Lampung, Indonesia"
+    orcid: "https://orcid.org/0009-0007-4973-926X"
+  - family-names: "Sudarmaji"
+    affiliation: "Faculty of Computer Science, Muhammadiyah University of Metro, Metro, Lampung, Indonesia"
+    orcid: "https://orcid.org/0009-0005-5549-4886"
+  - family-names: "Samsudin"
+    given-names: "Imam"
+    affiliation: "Faculty of Computer Science, Muhammadiyah University of Metro, Metro, Lampung, Indonesia"
+    orcid: "https://orcid.org/0009-0006-2482-4209"
+keywords:
+  - "Forward-Forward algorithm"
+  - "plasticity loss"
+  - "continual learning"
+  - "local learning rules"
+  - "dormant neurons"
+  - "effective rank"
+# After Zenodo assigns a DOI, add:
+# doi: 10.5281/zenodo.XXXXXXX
+date-released: "2026-10-26"
