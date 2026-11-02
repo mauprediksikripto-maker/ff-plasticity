@@ -1,0 +1,16 @@
+{
+  "title": "Does local learning preserve plasticity? Forward-Forward versus backpropagation in continual learning — code and results",
+  "upload_type": "software",
+  "description": "Code, Colab notebooks and per-task results for the manuscript 'Does local learning preserve plasticity? Forward-Forward versus backpropagation in continual learning' (submitted to Neural Networks). Includes the experiment library (PyTorch), five notebooks (control regime; main random-label regime with BP-N control and width ablation; Forward-Forward learning-rate sensitivity; robustness with SGD and a convolutional network; other local rules and Continual CIFAR-100), per-task metrics of every run (JSON Lines), configuration files, and a script that rebuilds every table and figure of the paper without a GPU.",
+  "creators": [
+    {"name": "Irawan, Dedi", "affiliation": "Faculty of Computer Science, Muhammadiyah University of Metro, Metro, Lampung, Indonesia", "orcid": "0009-0007-4973-926X"},
+    {"name": "Sudarmaji", "affiliation": "Faculty of Computer Science, Muhammadiyah University of Metro, Metro, Lampung, Indonesia", "orcid": "0009-0005-5549-4886"},
+    {"name": "Samsudin, Imam", "affiliation": "Faculty of Computer Science, Muhammadiyah University of Metro, Metro, Lampung, Indonesia", "orcid": "0009-0006-2482-4209"}
+  ],
+  "keywords": ["Forward-Forward algorithm", "plasticity loss", "continual learning", "local learning rules", "dormant neurons", "effective rank"],
+  "license": "MIT",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng",
+  "notes": "Results (results/, tables/, figures/) are additionally released under CC BY 4.0."
+}
